@@ -37,6 +37,5 @@ int main(){
     scanf("%d %d",&v1,&v2);
     printf("Dans main v1 vaut %d", v1);
     echange(v1, v2);
-    printf("V1 vaut %d, V2 vaut %d\n", v1 ,v2);
-
+  
 }
